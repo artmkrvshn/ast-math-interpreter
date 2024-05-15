@@ -1,0 +1,3 @@
+enum class TokenType {
+    INTEGER, FUNCTION, PLUS, MINUS, MUL, DIV, LPAREN, RPAREN, EOF
+}
